@@ -2,3 +2,6 @@ node_modules
 dist
 out
 *.log*
+
+# Monarch's personal experimentation spot for Python
+python-experiments/
